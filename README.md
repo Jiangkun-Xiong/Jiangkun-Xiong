@@ -2,7 +2,9 @@
 
 I'm a **MBBS student in Chongqing Medical University** with research experience spanning **cerebral haemodynamics, physiological signal analysis, and translational neuroscience**, with a particular focus on stroke and epilepsy.
 
-I also hold a **BSc (Hons) in Clinical Sciences from the University of Leicester**, with research training in quantitative physiological and clinical research. I am currently expanding my computational skills, with interests spanning **neuroscience, quantitative physiology, and computational biology**.
+I hold a **BSc (Hons) in Clinical Sciences from the University of Leicester**, where I completed **one year of research training in the UK**, gaining hands-on experience in quantitative physiological and clinical research.
+
+I am currently expanding my computational skills, with interests spanning **neuroscience, quantitative physiology, and computational biology**.
 
 ## 🔬 Research Experience
 
