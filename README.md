@@ -1,6 +1,6 @@
 # Hi, I'm Jiangkun 👋
 
-I'm a Clinical Medicine student with research experience in **cerebral haemodynamics, stroke research, and physiological signal analysis**. I also hold a **BSc (Hons) in Clinical Sciences from the University of Leicester**, where I received research training in cerebral haemodynamics and stroke medicine.
+I'm a **MBBS student in Chongqing Medical University** with research experience in **cerebral haemodynamics, stroke research, and physiological signal analysis**. I also hold a **BSc (Hons) in Clinical Sciences from the University of Leicester**, where I received research training in cerebral haemodynamics and stroke medicine.
 
 My current interests lie at the intersection of **clinical medicine, data analysis, and computational biology**, with a growing focus on applying computational approaches to biomedical research.
 
@@ -50,7 +50,7 @@ These experiences have strengthened my interest in connecting **medicine, resear
 
 ## 📫 Contact
 
-- **Email:** [your academic email]
+- **Email:** [jiangkun.xiong@outlook.com]
 - **GitHub:** [github.com/Jiangkun-Xiong](https://github.com/Jiangkun-Xiong)
 
 <!-- LinkedIn / Portfolio can be added here later -->
