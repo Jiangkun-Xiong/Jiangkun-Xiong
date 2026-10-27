@@ -1,7 +1,4 @@
-<img width="1077" height="2268" alt="image" src="https://github.com/user-attachments/assets/0a393b3b-21f0-47bf-9a42-148de7f076dc" />## Hi, I'm Jiangkun 👋
-
-<!--
-**Jiangkun-Xiong/Jiangkun-Xiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jiangkun 👋
 
 I'm a Clinical Medicine student with research experience in **cerebral haemodynamics, stroke research, and physiological signal analysis**. I also hold a **BSc (Hons) in Clinical Sciences from the University of Leicester**, where I received research training in cerebral haemodynamics and stroke medicine.
 
