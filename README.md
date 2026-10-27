@@ -1,13 +1,13 @@
 # Hi, I'm Jiangkun 👋
 
-I'm a **MBBS student in Chongqing Medical University** with research experience in **cerebral haemodynamics, stroke research, and physiological signal analysis**. I also hold a **BSc (Hons) in Clinical Sciences from the University of Leicester**, where I received research training in cerebral haemodynamics and stroke medicine.
+I'm a **MBBS student in Chongqing Medical University** with research experience spanning **cerebral haemodynamics, physiological signal analysis, and translational neuroscience**, with a particular focus on stroke and epilepsy.
 
-My current interests lie at the intersection of **clinical medicine, data analysis, and computational biology**, with a growing focus on applying computational approaches to biomedical research.
+I also hold a **BSc (Hons) in Clinical Sciences from the University of Leicester**, with research training in quantitative physiological and clinical research. I am currently expanding my computational skills, with interests spanning **neuroscience, quantitative physiology, and computational biology**.
 
 ## 🔬 Research Experience
 
 ### Cerebral Haemodynamics & Stroke Research
-**University of Leicester | CHiASM Research Group**
+**Cerebral Haemodynamics in Ageing and Stroke Medicine (CHiASM) Research Group| University of Leicester**
 
 My research has focused on **dynamic cerebral autoregulation (dCA) in ischaemic stroke**, particularly the directional characteristics of cerebral haemodynamic regulation during the acute and subacute stages of stroke.
 
@@ -21,6 +21,20 @@ Key areas of experience include:
 📌 **Poster Presentation:**  
 *Directional Sensitivity of Dynamic Cerebral Autoregulation in Acute and Subacute Ischaemic Stroke*  
 CARNet 2026, Liverpool, UK
+
+### Epilepsy Biomarkers & Molecular Diagnostics
+**Chongqing Key Laboratory of Neurology | Chongqing Medical University**
+
+**Epihunting** was a translational neuroscience project exploring a **blood-based molecular testing strategy for epilepsy** by integrating targeted genetic testing with serum exosomal protein biomarkers.
+
+My contributions included:
+- Reviewing evidence on epilepsy-associated genetic variants and serum exosomal biomarkers
+- Contributing to an assay workflow combining **ARMS-qPCR** with **ELISA-based biomarker quantification**
+- Supporting laboratory testing, protocol refinement, and early prototyping
+- Exploring the translation of molecular findings into a clinically oriented diagnostic concept
+
+🏆 **Project Recognition:**  
+National Finals Silver Award and Chongqing Regional Gold Award in student innovation and entrepreneurship competitions
 
 ## 🧬 Currently Learning
 
