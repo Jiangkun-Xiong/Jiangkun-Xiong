@@ -9,7 +9,7 @@ I am currently expanding my computational skills, with interests spanning **neur
 ## 🔬 Research Experience
 
 ### Cerebral Haemodynamics & Stroke Research
-**Cerebral Haemodynamics in Ageing and Stroke Medicine (CHiASM) Research Group| University of Leicester**
+**Cerebral Haemodynamics in Ageing and Stroke Medicine (CHiASM) Research Group | University of Leicester**
 
 My research has focused on **dynamic cerebral autoregulation (dCA) in ischaemic stroke**, particularly the directional characteristics of cerebral haemodynamic regulation during the acute and subacute stages of stroke.
 
@@ -66,7 +66,7 @@ These experiences have strengthened my interest in connecting **medicine, resear
 
 ## 📫 Contact
 
-- **Email:** [jiangkun.xiong@outlook.com]
+- **Email:** jiangkun.xiong@outlook.com
 - **GitHub:** [github.com/Jiangkun-Xiong](https://github.com/Jiangkun-Xiong)
 
 <!-- LinkedIn / Portfolio can be added here later -->
